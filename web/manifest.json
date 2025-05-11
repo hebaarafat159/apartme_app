@@ -1,0 +1,35 @@
+{
+    "name": "apartme",
+    "short_name": "apartme",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "We're the property website, showcasing listings from Estate Agents, Lettings Agents, and New Home Developers across the UK and internationally. With over one million properties available, Rightmove makes it easy to find your ideal home. Start your search today, or use our 'Find Agent' tool to connect with local agents who can help you advertise or buy with confidence.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

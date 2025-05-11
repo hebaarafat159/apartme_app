@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710152037421",
+    "project_id": "apartme-8cdc6",
+    "storage_bucket": "apartme-8cdc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710152037421:android:0d7ecc763b7c0e522084a4",
+        "android_client_info": {
+          "package_name": "com.hebaarafat.apartme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710152037421-fnbl6khf3gcf88f8rphafo5fg4bk0rqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hebaarafat.apartme",
+            "certificate_hash": "e993efac5e12c978360bff559bd31139d7ebcfc6"
+          }
+        },
+        {
+          "client_id": "710152037421-3jnejhbsibrs7aa2plne6st4caaavm3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwKNwOJlrcalPwZu9LJDlhb_BU5wqkqFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710152037421-3jnejhbsibrs7aa2plne6st4caaavm3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710152037421-8cur6crnggt58l9lrafuqvoltd97fdif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hebaarafat.apartme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
